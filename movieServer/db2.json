@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Transformers The Rise Of The Beast",
+        "cover": "https://w0.peakpx.com/wallpaper/65/623/HD-wallpaper-transformers-the-last-knight-transformers-the-last-knight-movies-optimus-prime-transformers-5-thumbnail.jpg",
+        "video":"https://www.youtube.com/embed/WWWDskI46Js",
+        "about":"Transformers: Rise of the Beasts is an upcoming American science fiction action film based on Hasbro's Transformers toy line and primarily influenced by the Beast Wars storyline."
+      },
+      {
+        "id": 2,
+        "name": "Quantumania",
+        "cover": "https://w0.peakpx.com/wallpaper/561/71/HD-wallpaper-movie-ant-man-and-the-wasp-quantumania-thumbnail.jpg",
+        "video":"https://www.youtube.com/embed/5WfTEZJnv_8",
+        "about":"Ant-Man and the Wasp: Quantumania is an upcoming American superhero film based on Marvel Comics featuring the characters Scott Lang / Ant-Man and Hope Pym / Wasp."
+      },
+      {
+        "id": 3,
+        "name": "Oppenheimer",
+        "cover": "https://w0.peakpx.com/wallpaper/740/397/HD-wallpaper-movie-oppenheimer-thumbnail.jpg",
+        "video":"https://www.youtube.com/embed/bK6ldnjE3Y0",
+        "about":"Premise. The film follows the life of theoretical physicist J. Robert Oppenheimer, the director of the Los Alamos Laboratory during the Manhattan Project, and his contributions that led to the creation of the atomic bomb."
+      },
+      {
+        "id": 4,
+        "name": "The Nun 2",
+        "cover": "https://w0.peakpx.com/wallpaper/278/436/HD-wallpaper-the-nun-movie-the-nun-movies-2018-movies-thumbnail.jpg",
+        "video":"https://www.youtube.com/embed/rExfMTi3PAM",
+        "about":"The Nun 2 is an upcoming American gothic supernatural horror film directed by Michael Chaves and written by Akela Cooper, Ian Goldberg, and Richard Naing from a story by Cooper and James Wan."
+      }
+]

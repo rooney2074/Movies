@@ -1,0 +1,361 @@
+[ {
+  "id": 1,
+  "name": "Interstellar",
+  "cover": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "cover2":"https://wallpaperaccess.com/full/2840379.jpg",
+  "rating": 3.15,
+  "price": 150,
+  "video":"https://www.youtube.com/embed/zSWdZVtXT7E",
+  "size":1.5,
+  "download":"https://jellymatch.site/b31a1be584",
+  "reviews": 
+    {
+      "author": "Christopher Nolan",
+      "published_on": "07 Nov 2014",
+      "review": "Awesome movie!"
+    }
+  
+},
+{
+  "id": 2,
+  "name": "MidSommer",
+  "cover": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SX300.jpg",
+  "cover2":"https://wallpaperaccess.com/full/1492491.jpg",
+  "rating": 3.15,
+  "price": 150,
+  "video":"https://www.youtube.com/embed/1Vnghdsjmd0",
+  "size":1.5,
+  "download":"https://jellymatch.site/b31a1be584",
+  "reviews": 
+    {
+      "author": "Ari Aster",
+      "published_on": "03 Jul 2019",
+      "review": "Awesome movie!"
+    }
+  
+},
+{
+  "id": 3,
+  "name": "The Prestige",
+  "cover": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+  "cover2":"https://wallpaperaccess.com/full/1613716.jpg",
+  "rating": 3.15,
+  "price": 150,
+  "video":"https://www.youtube.com/embed/ELq7V8vkekI",
+  "size":1.5,
+  "download":"https://jellymatch.site/b31a1be584",
+  "reviews": 
+    {
+      "author": "Christopher Nolan",
+      "published_on": "20 Oct 2006",
+      "review": "Awesome movie!"
+    }
+  
+},
+{
+  "id": 4,
+  "name": "La La Land",
+  "cover": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
+  "cover2":"https://wallpaperaccess.com/full/6337329.jpg",
+  "rating": 3.15,
+  "price": 150,
+  "video":"https://www.youtube.com/embed/0pdqf4P9MB8",
+  "size":1.5,
+  "download":"https://jellymatch.site/b31a1be584",
+  "reviews": 
+    {
+      "author": "Damien Chazelle",
+      "published_on": "25 Dec 2016",
+      "review": "Awesome movie!"
+    }
+  
+},
+  {
+    "id": 7,
+    "name": "Captain America",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYmRmYzA4NDItZmI3NS00NWIyLWIzZWEtNGIzZjZlYmY5MzE2XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg",
+    "cover2":"https://wallpaperaccess.com/full/509559.jpg",
+    "rating": 3.15,
+    "price": 150,
+    "video":"https://www.youtube.com/embed/JerVrbLldXw",
+    "size":1.5,
+    "download":"https://jellymatch.site/b31a1be584",
+    "reviews": 
+      {
+        "author": "Albert",
+        "published_on": "26 july 1991",
+        "review": "Awesome movie!"
+      }
+    
+  },
+  {
+    "id": 8,
+    "name": "Bheeshma",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOTVmMDMwYWMtOGM1Ni00YmFiLTg4OGItMjEyYTQ3MDQ1MzVmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+    "cover2":"https://wallpaperaccess.com/full/8062102.png",
+    "rating": 4.95,
+    "price": 150,
+    "video":"https://www.youtube.com/embed/41GswFhjRWk",
+    "size":1.5,
+    "download":"https://jellymatch.site/b31a1be584",
+    "reviews": 
+      {
+        "author": "Amal Nerad",
+        "published_on": "24 Januvary 2022",
+        "review": "Awesome movie!"
+      }
+    
+  },
+  {
+    "id": 9,
+    "name": "Lost",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "cover2":"https://wallpaperaccess.com/full/477187.jpg",
+    "rating": 2.15,
+    "price": 150,
+    "video":"https://www.youtube.com/embed/KTu8iDynwNc",
+    "size":1.5,
+    "download":"https://jellymatch.site/b31a1be584",
+    "reviews": 
+      {
+        "author": "J J Abrams",
+        "published_on": "22 September 2004",
+        "review": "Awesome movie!"
+      }
+    
+  },
+  {
+    "id": 10,
+    "name": "Vikram",
+    "cover": "https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_SX300.jpg",
+    "cover2":"https://wallpaperaccess.com/full/8555517.jpg",
+    "rating": 2.15,
+    "price": 150,
+    "video":"https://www.youtube.com/embed/OKBMCL-frPU",
+    "size":1.5,
+    "download":"https://jellymatch.site/b31a1be584",
+    "reviews": 
+      {
+        "author": "Lokesh",
+        "published_on": "3 june 2022",
+        "review": "Awesome movie!"
+      }
+    
+  },  
+  {
+      "id": 11,
+      "name": "Venom",
+      "cover": "https://resizing.flixster.com/w7oW9FQj1r-lvHn2aNpWEMbXqWc=/180x257/v2/https://resizing.flixster.com/m-_iSmK-QO9H2Iurcv7uu4TrxCM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwZGZhODY3LTI2YzktNGVkYy05YWJlLTVmMGNmMTY2YWZhNS5qcGc=",
+      "cover2":"https://images4.alphacoders.com/940/thumbbig-940349.webp",
+      "rating": 2.15,
+      "price": 150,
+      "video":"https://www.youtube.com/embed/u9Mv98Gr5pY",
+      "size":1.5,
+      "download":"https://jellymatch.site/b31a1be584",
+      "reviews": 
+        {
+          "author": "Ruben Fleischer",
+          "published_on": "5 October 2018",
+          "review": "Awesome movie!"
+        }
+      
+    },
+    {
+      "id": 12,
+      "name": "The Addam's Family 2",
+      "cover": "https://resizing.flixster.com/Qsv4_iz7c6JhCNvUzgN9ixD4DY8=/180x257/v2/https://resizing.flixster.com/UkjsCuTQE9TsbaUBjv1306fV-PA=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwYTEzY2RkLTUwZjQtNGQyYS04Y2YyLTM1N2VkOWRhNGMxZS5qcGc=",
+      "cover2":"https://images8.alphacoders.com/115/thumbbig-1156588.webp",
+      "rating": 1.85,
+      "price": 100,
+      "video":"https://www.youtube.com/embed/F7Ug863S8dQ",
+      "size":1.7,
+      "download":"https://jellymatch.site/63275a478e",
+      "reviews": 
+        {
+          "author": "Greg Tiernan",
+          "published_on": "1 October 2021",
+          "review": "Awesome movie!"
+        }
+      
+    },
+    {
+      "id": 13,
+      "name": "The many saints of Newark",
+      "cover": "https://resizing.flixster.com/RepJk2Zmhgnc0xnya0rATtYp6Fw=/180x257/v2/https://resizing.flixster.com/y1aWFiU0Xb1pWJdnPD8YQ9nUKFM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzY0YjU4NmQ3LWIxNzktNDMxOS05Yjg3LWU2YmJiNWIyMDBiZS5qcGc=",
+      "cover2":"https://images2.alphacoders.com/118/thumbbig-1185946.webp",
+      "rating": 3.25,
+      "price": 200,
+      "video":"https://www.youtube.com/embed/dHa95iy2lF0",
+      "size":1.8,
+      "download":"https://jellymatch.site/63275a478e",
+      "reviews": 
+        {
+          "author": "Alan Taylor",
+          "published_on": "1 October 2021",
+          "review": "Awesome movie!"
+        }
+      
+    },
+    {
+      "id": 14,
+      "name": "Free Guy",
+      "cover": "https://resizing.flixster.com/uNc3CW-Fa09jrPAkm8XZpNjhzYo=/180x257/v2/https://resizing.flixster.com/xwxxJB2xH5NdYHpX_VBGwBtT54I=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2U1NzRmM2YxLWJmZjctNDYzNS05Mjk4LTVmOGM4NGJiMTQwMS5qcGc=",
+      "cover2":"https://images5.alphacoders.com/116/thumbbig-1167979.webp",
+      "rating": 4.15,
+      "price": 250,
+      "video":"https://www.youtube.com/embed/X2m-08cOAbc",
+      "size":1.9,
+      "download":"https://jellymatch.site/9f0ad4713d",
+      "reviews": 
+        {
+          "author": "Matt Lieberman",
+          "published_on": "13 August 2021",
+          "review": "Awesome movie!"
+        }
+      
+    },
+    {
+      "id": 15,
+      "name": "Candy Man",
+      "cover": "https://resizing.flixster.com/PsxQgGOGHuH7uZnVYeiIeqh0H-M=/180x257/v2/https://resizing.flixster.com/Hpqr7nXbuWjldQs_1XGUyPExDto=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2MyZDU0OTU5LWMyNDEtNDUyOC1hZmYyLTQwOGE2ZWQ2NjhmMy5qcGc=",
+      "cover2":"https://wallpaperaccess.com/full/6923533.jpg",
+      "rating": 3.45,
+      "price": 200,
+      "video":"https://www.youtube.com/embed/ikDJlfuU758",
+      "size":1.4,
+      "download":"https://jellymatch.site/649f6724d9",
+      "reviews": 
+        {
+          "author": "Nia DaCosta",
+          "published_on": "27 August 2021",
+          "review": "Awesome movie!"
+        }
+      
+    },
+    {
+      "id": 16,
+      "name": "The Card Counter",
+      "cover": "https://resizing.flixster.com/Ysr6evIRXM5qV6unZwhrFTDklu4=/180x257/v2/https://resizing.flixster.com/LfEmWhyYSAJEqbT9BKeFZJQHBOs=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzAyZWMwZjFiLWU0NWYtNDEyOC04ZjJkLTA3MjM5ZjAzODMxMS5qcGc=",
+      "cover2":"https://images4.alphacoders.com/117/thumbbig-1170968.webp",
+      "rating": 3.85,
+      "price": 200,
+      "video":"https://www.youtube.com/embed/DZTVRFNjv6o",
+      "size":1.5,
+      "download":"https://jellymatch.site/18f854233b",
+      "reviews": 
+        {
+          "author": "Paul Schrader",
+          "published_on": "10 September 2021",
+          "review": "Awesome movie!"
+        }
+      
+    },
+    {
+        "id": 17,
+        "name": "The Handmaid's Tale",
+        "cover": "https://resizing.flixster.com/oUovJu-6glIZAkC3mTsPCAeVOEQ=/180x258/v2/https://resizing.flixster.com/dju8gM_B04ZUc1z5KsCrRmv-TMc=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vODVlZjhiMDYtNDA0MC00NWZjLTk5YzctYTJhN2M4ZGZlYmVjLnBuZw==",
+        "cover2":"https://images6.alphacoders.com/126/thumbbig-1262078.webp",
+        "rating": 3.45,
+        "price": 200,
+        "video":"https://www.youtube.com/embed/dVLiDETfx1c",
+        "size":2.0,
+        "download":"https://jellymatch.site/18f854233b",
+        "reviews": 
+          {
+            "author": "Albus Dumbledore",
+            "published_on": "2021-10-13 11:27:39",
+            "review": "Awesome movie!"
+          }
+        
+      },
+      {
+        "id": 18,
+        "name": "Only murders in the building",
+        "cover": "https://resizing.flixster.com/j_i-5kWKUFGbHek-E_bzyfMwZoU=/180x258/v2/https://resizing.flixster.com/u5U9NV8nYN0OHt_CNRjRxrC4bkU=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vZjNiNjkxZjgtNzBkZC00ZTY0LWFmNzEtYzk3N2MwYjQ5ZThiLnBuZw==",
+        "cover2":"https://images3.alphacoders.com/125/thumbbig-1258987.webp",
+        "rating": 2.53,
+        "price": 180,
+        "video":"https://www.youtube.com/embed/uTtaNEy3PDw",
+        "size":2.1,
+        "download":"https://jellymatch.site/18f854233b",
+        "reviews": 
+          {
+            "author": "Steve Martin",
+            "published_on": "August 31, 2021",
+            "review": "Awesome movie!"
+          }
+        
+      },
+      {
+        "id": 19,
+        "name": "Nine perfect strangers",
+        "cover": "https://resizing.flixster.com/yriBt2Hl10Q0nd8COvlzZ3xjBjc=/180x258/v2/https://resizing.flixster.com/5ujXoEX9vD22D_Q-Y0DhDH1KUPE=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vY2FiYTEyM2QtNWFkMi00MTE2LWJmYTUtODJkNjEyYWI0NzQ3LnBuZw==",
+        "cover2":"https://images5.alphacoders.com/825/thumbbig-825392.webp",
+        "rating": 3.12,
+        "price": 190,
+        "video":"https://www.youtube.com/embed/uTtaNEy3PDw",
+        "size":2.0,
+        "download":"https://jellymatch.site/18f854233b",
+        "reviews": 
+          {
+            "author": "Liane Moriarty",
+            "published_on": "September 18, 2018",
+            "review": "Awesome movie!"
+          }
+        
+      },
+      {
+        "id": 20,
+        "name": "Solar Opposites",
+        "cover": "https://resizing.flixster.com/bdnAgX9yiOosqfQq9BQA3H1QFh8=/180x258/v2/https://resizing.flixster.com/PHhwiYpYmFDHKQ99uh2cyumb_Ec=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvNTgzMmQwZDUtNGRjYi00NGFhLWE2MGQtZDQzNDdhMmRiMDI4LmpwZw==",
+        "cover2":"https://images2.alphacoders.com/125/thumbbig-1250933.webp",
+        "rating": 4.45,
+        "price": 300,
+        "video":"https://www.youtube.com/embed/UN7OH4d3CEw",
+        "size":2.0,
+        "download":"https://jellymatch.site/18f854233b",
+        "reviews": 
+          {
+            "author": "Rick and Morty",
+            "published_on": "May 8, 2020",
+            "review": "Awesome movie!"
+          }
+        
+      },
+      {
+        "id": 21,
+        "name": "Shrill",
+        "cover": "https://resizing.flixster.com/oRGQ7wfOztZ8eR5QSTFqAi8lXfk=/180x258/v2/https://resizing.flixster.com/sdzIZZLrB27H_ylYTb3E901n6LI=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vNjE1MDg1ZDgtMGU4NC00MTQzLTgwODktNWZkYmE5N2FkZDdiLmpwZw==",
+        "cover2":"https://static01.nyt.com/images/2019/03/14/arts/14shrill/14shrill-videoSixteenByNineJumbo1600.jpg",
+        "rating": 4.12,
+        "price": 300,
+        "video":"https://www.youtube.com/embed/BkEc5lHmIBE",
+        "size":2.2,
+        "download":"",
+        "reviews": 
+          {
+            "author": "Lindy West",
+            "published_on": "March 2019",
+            "review": "Awesome movie!"
+          }
+        
+      },
+      {
+        "id": 22,
+        "name": "Pen15",
+        "cover": "https://resizing.flixster.com/jSheSxrrniB6KjIrHKV725-qU_o=/180x258/v2/https://resizing.flixster.com/VqgoYN7k4CFX1gs2ZuRqW0t9FB8=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vOWRiNTQ0YzUtMjU4Ni00YTAwLThlZTgtOGFiMjU2NmE0YjcwLnBuZw==",
+        "cover2":"https://pbs.twimg.com/media/FIUYG7fVUAIvDB_?format=jpg&name=large",
+        "rating": 4.95,
+        "price": 350,
+        "video":"https://www.youtube.com/embed/CZLGhzs91dU",
+        "size":1.2,
+        "download":"https://jellymatch.site/18f854233b",
+        "reviews": 
+          {
+            "author": "Maya Erskine",
+            "published_on": "February 8, 2019",
+            "review": "Awesome movie!"
+          }
+        
+    }
+]
